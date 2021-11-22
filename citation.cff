@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SFG Upconversion Simulator
+message: 'If you use this program, please cite as below.'
+type: software
+authors:
+  - given-names: James
+    family-names: Pickering
+    email: pickering.jamesd@gmail.com
+    affiliation: Aarhus University
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/james-d-pickering/SFG_upconversion_simulator
+url: 'https://jamesdpickering.com/pages/programs.html'
+repository: >-
+  https://github.com/james-d-pickering/SFG_upconversion_simulator
+license: GPL-3.0+
+version: '1.0'
+date-released: '2021-11-22'
